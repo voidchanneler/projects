@@ -1,0 +1,5 @@
+# ninja log v5
+0	468	6651988739050249	CMakeFiles/planetarium.dir/main.cpp.obj	88e825482b7cdd49
+3	630	6652580195426283	CMakeFiles/planetarium.dir/main.obj	7d07716ac3dc785d
+179	377	6652581433291124	planetarium.exe	ddd419ddaee3dbe1
+1	179	6652581431614050	CMakeFiles/planetarium.dir/objects/src/celestialObject.obj	9723c776cda05b50

@@ -1,0 +1,3 @@
+C:/Users/splaw/Desktop/Projects/projects/CppProjects/Planetarium/out/build/x64-Debug/CMakeFiles/planetarium.dir
+C:/Users/splaw/Desktop/Projects/projects/CppProjects/Planetarium/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/splaw/Desktop/Projects/projects/CppProjects/Planetarium/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
